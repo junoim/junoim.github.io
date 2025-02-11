@@ -1,3 +1,3 @@
 # junoim.github.io
 
-hi
+hi(hello)
